@@ -2,9 +2,6 @@ A Node js tutorial.
 ![](https://colorlib.com/wp/wp-content/uploads/sites/2/nodejs-frameworks.png)
 
 
-## Description 	
-A shopping app using Node js.	
-* [Course Link](https://www.udemy.com/course/nodejs-the-complete-guide/)
 
 # Getting started
 
@@ -17,6 +14,9 @@ To get the Node server running locally:
 
 Alternately, to quickly try out this repo in the cloud, you can [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/realworld)
 
+## Description 	
+A shopping app using Node js.	
+* [Course Link](https://www.udemy.com/course/nodejs-the-complete-guide/)
 
 
 ## Dependencies
